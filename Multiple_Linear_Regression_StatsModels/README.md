@@ -3,10 +3,10 @@ _This content of the task and csv file was taken from The Data Science Course: C
 
 __Description:__
 
-You are given a real estate dataset. 
+You are given a real estate dataset.
 
-The data is located in the file: 'real_estate_price_size_year.csv'. 
+The data is located in the file: 'real_estate_price_size_year_view.csv'.
 
-You are expected to create a multiple linear regression. 
+You are expected to create a multiple linear regression.
 
-In this exercise, the dependent variable is 'price', while the independent variables are 'size' and 'year'.
+In this exercise, the dependent variable is 'price', while the independent variables are 'size', 'year', and 'view'.
